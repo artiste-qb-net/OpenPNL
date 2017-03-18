@@ -1,0 +1,6 @@
+libpnl_la-pnlParConfig.lo: pnlParConfig.cpp /usr/include/stdc-predef.h \
+ ../../c_pgmtk/include/pnlParConfig.hpp
+
+/usr/include/stdc-predef.h:
+
+../../c_pgmtk/include/pnlParConfig.hpp:

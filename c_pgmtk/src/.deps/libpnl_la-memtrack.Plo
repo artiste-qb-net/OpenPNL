@@ -1,0 +1,6 @@
+libpnl_la-memtrack.lo: memtrack.cpp /usr/include/stdc-predef.h \
+ ../../c_pgmtk/include/memtrack.h
+
+/usr/include/stdc-predef.h:
+
+../../c_pgmtk/include/memtrack.h:

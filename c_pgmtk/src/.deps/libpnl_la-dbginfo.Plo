@@ -1,0 +1,6 @@
+libpnl_la-dbginfo.lo: dbginfo.cpp /usr/include/stdc-predef.h \
+ ../../c_pgmtk/include/dbginfo.h
+
+/usr/include/stdc-predef.h:
+
+../../c_pgmtk/include/dbginfo.h:
