@@ -426,10 +426,10 @@ int main()
     for (i = 0; i < resBNet->GetGraph()->GetNumberOfNodes(); i++)
         resBNet->GetFactor(i)->GetDistribFun()->Dump();
     
-	delete pLearn;
-	delete pInit;
-	delete pMix;
-	for(i=0; i<nEv; i++)
-		delete evidences[i];
-	evidences.clear();
+    delete pLearn;
+    delete pInit;
+    delete pMix;
+    for(i=0; i<nEv; i++)
+      delete evidences[i];
+    evidences.clear();
 }

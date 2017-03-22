@@ -1,17 +1,13 @@
 example-example_common_funs.o: example_common_funs.cpp \
  /usr/include/stdc-predef.h /usr/include/stdio.h /usr/include/features.h \
- /usr/include/x86_64-linux-gnu/sys/cdefs.h \
- /usr/include/x86_64-linux-gnu/bits/wordsize.h \
- /usr/include/x86_64-linux-gnu/gnu/stubs.h \
- /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
  /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h \
- /usr/include/x86_64-linux-gnu/bits/types.h \
- /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
- /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h \
- /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /usr/include/x86_64-linux-gnu/bits/sys_errlist.h /usr/include/string.h \
- /usr/include/xlocale.h
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/string.h /usr/include/xlocale.h
 
 /usr/include/stdc-predef.h:
 
@@ -19,19 +15,19 @@ example-example_common_funs.o: example_common_funs.cpp \
 
 /usr/include/features.h:
 
-/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+/usr/include/sys/cdefs.h:
 
-/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+/usr/include/bits/wordsize.h:
 
-/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+/usr/include/gnu/stubs.h:
 
-/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+/usr/include/gnu/stubs-32.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
 
-/usr/include/x86_64-linux-gnu/bits/types.h:
+/usr/include/bits/types.h:
 
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+/usr/include/bits/typesizes.h:
 
 /usr/include/libio.h:
 
@@ -41,9 +37,9 @@ example-example_common_funs.o: example_common_funs.cpp \
 
 /usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+/usr/include/bits/stdio_lim.h:
 
-/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+/usr/include/bits/sys_errlist.h:
 
 /usr/include/string.h:
 
